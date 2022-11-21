@@ -49,7 +49,7 @@ nav ul li p{
     margin: 2px 0;
     font-weight: bold;
 }
-nav ul li:hover,nav ul li.active{
+nav ul li:hover, .active{
      color: indianred;
 }
 
